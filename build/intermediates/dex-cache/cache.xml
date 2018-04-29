@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/carlos/.android/build-cache/c5d13adcc8a949de15558809d565338c323d3b68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/pre-dexed/debug/classes_e137add1f4ec4dcd8c8dbfe178ee8b94a5a07eec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/40a5be98d84570f934650ad4a790544dae5f9acc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0b12994d533a18ebb8491432511373ae3741f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6ceac8576618f6d7f291f3b5be053c0fd174c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/.android/build-cache/40a5be98d84570f934650ad4a790544dae5f9acc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/pre-dexed/debug/classes_d0b12994d533a18ebb8491432511373ae3741f1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c258cdaac8a5e15313478a4491983607a07b5c9">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3da97892deeef6d953cd6792bf2b8d9a50744e1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c448f360d2261a49b70d8490ebe87277cece2851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/c5d13adcc8a949de15558809d565338c323d3b68/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_528a09789aeaa2145e5c0cee9d9d4236da54c11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_3fffad5be31d4621eb74cab74dc9cc7b84c989ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/pre-dexed/debug/classes_c448f360d2261a49b70d8490ebe87277cece2851.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/94864cf7d638f09810518016ce6d05921a6ddf99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ec277e52d30f44d3b2f83034baa6d98d37d7b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/.android/build-cache/94864cf7d638f09810518016ce6d05921a6ddf99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/pre-dexed/debug/classes_8ec277e52d30f44d3b2f83034baa6d98d37d7b1c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/c5d13adcc8a949de15558809d565338c323d3b68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e137add1f4ec4dcd8c8dbfe178ee8b94a5a07eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_3fffad5be31d4621eb74cab74dc9cc7b84c989ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/.android/build-cache/c5d13adcc8a949de15558809d565338c323d3b68/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_528a09789aeaa2145e5c0cee9d9d4236da54c11b.jar" />
+    </item>
+
+</items>

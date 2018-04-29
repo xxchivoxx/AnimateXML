@@ -1,0 +1,7 @@
+#Sun Apr 29 17:15:20 MDT 2018
+base.0=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3da97892deeef6d953cd6792bf2b8d9a50744e1a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6ceac8576618f6d7f291f3b5be053c0fd174c50/classes.dex
+base.1=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6ceac8576618f6d7f291f3b5be053c0fd174c50
+file.0=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3da97892deeef6d953cd6792bf2b8d9a50744e1a/classes.dex

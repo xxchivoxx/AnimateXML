@@ -1,0 +1,19 @@
+#Sun Apr 29 17:04:16 MDT 2018
+renamed.5=classes2.dex
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes6.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.5=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ec277e52d30f44d3b2f83034baa6d98d37d7b1c
+base.4=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e137add1f4ec4dcd8c8dbfe178ee8b94a5a07eec
+base.3=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0b12994d533a18ebb8491432511373ae3741f1e
+base.2=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_528a09789aeaa2145e5c0cee9d9d4236da54c11b
+base.1=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c448f360d2261a49b70d8490ebe87277cece2851
+base.0=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_3fffad5be31d4621eb74cab74dc9cc7b84c989ca
+file.5=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ec277e52d30f44d3b2f83034baa6d98d37d7b1c/classes.dex
+file.4=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e137add1f4ec4dcd8c8dbfe178ee8b94a5a07eec/classes.dex
+file.3=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0b12994d533a18ebb8491432511373ae3741f1e/classes.dex
+file.2=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_528a09789aeaa2145e5c0cee9d9d4236da54c11b/classes.dex
+file.1=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c448f360d2261a49b70d8490ebe87277cece2851/classes.dex
+file.0=/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_3fffad5be31d4621eb74cab74dc9cc7b84c989ca/classes.dex

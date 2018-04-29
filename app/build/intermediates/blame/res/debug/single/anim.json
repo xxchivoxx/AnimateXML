@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
+        "source": "/home/carlos/AndroidStudioProjects/AnimateXML/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/blink.xml",
+        "source": "/home/carlos/AndroidStudioProjects/AnimateXML/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/carlos/AndroidStudioProjects/AnimateXML/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/grow.xml",
+        "source": "/home/carlos/AndroidStudioProjects/AnimateXML/app/src/main/res/anim/grow.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/carlos/.android/build-cache/c441d1b6cef96dd8be050175c7947c1337e3da20/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/carlos/AndroidStudioProjects/AnimateXML/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/carlos/AndroidStudioProjects/AnimateXML/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/home/carlos/AndroidStudioProjects/AnimateXML/app/src/main/res/anim/zoom_out.xml"
+    }
+]
